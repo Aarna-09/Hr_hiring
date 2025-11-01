@@ -1,0 +1,67 @@
+Name: Priya Sharma
+Email: priyasharma@gmail.com
+ | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/priyasharma | Location: Bengaluru, India
+
+Professional Summary
+
+Data Scientist with 3+ years of experience in building and deploying Machine Learning, NLP, and Data Analytics solutions. Skilled in Python, Scikit-learn, TensorFlow, and SQL, with a strong foundation in statistical modeling, feature engineering, and business intelligence. Proven ability to translate data insights into strategic business value.
+
+Technical Skills
+
+Programming: Python, SQL, R
+
+Libraries & Frameworks: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib
+
+Machine Learning: Supervised & Unsupervised Learning, Classification, Regression, Clustering
+
+NLP: Text Preprocessing, Sentiment Analysis, Named Entity Recognition (NER), Topic Modeling
+
+Data Tools: Power BI, Tableau, Excel, Google Data Studio
+
+Cloud: AWS (S3, Lambda, SageMaker), GCP
+
+Version Control: Git, GitHub
+
+Experience
+
+Data Scientist | Infosys | Jan 2022 – Present
+
+Developed and deployed ML models for customer churn prediction (AUC = 0.93).
+
+Used NLP techniques to analyze 1M+ customer reviews for sentiment and topic extraction.
+
+Automated feature engineering pipeline using Pandas & Scikit-learn, reducing manual effort by 40%.
+
+Designed dashboards in Power BI to visualize business KPIs, improving stakeholder insights.
+
+Machine Learning Intern | TCS | Jun 2021 – Dec 2021
+
+Implemented RandomForest and XGBoost models for financial fraud detection.
+
+Preprocessed large datasets using SMOTE and data normalization techniques.
+
+Collaborated with a team to optimize model performance, improving recall by 15%.
+
+Education
+
+B.Tech – Computer Science (AI & ML Specialization)
+Vellore Institute of Technology, 2021 | CGPA: 8.9/10
+
+Projects
+
+Multimodal Emotion Recognition System: Built ML model integrating text, speech, and facial features using CNN + LSTM.
+
+Netflix Data Analysis: Analyzed 6,000+ titles to uncover content trends using Python, Pandas, and Seaborn.
+
+Heart Disease Prediction: Used RandomForest with SMOTE to achieve 92% accuracy on imbalanced dataset.
+
+Certifications
+
+IBM Data Science Professional Certificate
+
+Google Cloud Machine Learning Engineer
+
+Soft Skills
+
+Analytical Thinking • Problem Solving • Communication • Team Collaboration

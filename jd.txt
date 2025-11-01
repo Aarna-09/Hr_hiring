@@ -1,0 +1,15 @@
+Job Title: Data Scientist
+
+We are looking for a skilled Data Scientist to join our analytics team.  
+The ideal candidate should have experience in:
+
+- Python programming
+- Machine Learning and Deep Learning models
+- Natural Language Processing (NLP)
+- Data visualization (Matplotlib, Seaborn, Power BI)
+- Working with SQL and large datasets
+- Strong understanding of statistics and data analysis
+
+Preferred experience:
+- 2+ years in data science or analytics roles
+- Familiarity with cloud platforms (AWS, GCP, or Azure)

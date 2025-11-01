@@ -1,0 +1,14 @@
+Name: Rohan Mehta
+Email: rohan.mehta@example.com
+
+Experience: 3 years as a Backend Developer
+
+Skills:
+- Java, Spring Boot
+- REST APIs, MySQL
+- Docker, Kubernetes
+- AWS EC2, Lambda
+- Git, Jenkins
+
+Education:
+B.Tech in Information Technology, 2021

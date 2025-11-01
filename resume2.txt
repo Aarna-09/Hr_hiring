@@ -1,0 +1,14 @@
+Name: Sneha Gupta
+Email: sneha.gupta@example.com
+
+Experience: 1 year as a Machine Learning Intern at TCS
+
+Skills:
+- Python, TensorFlow, Keras
+- Deep Learning (CNNs, RNNs)
+- NLP (BERT, spaCy)
+- Data Analysis (Pandas, NumPy)
+- SQL, Tableau
+
+Education:
+M.Tech in Artificial Intelligence, 2024
