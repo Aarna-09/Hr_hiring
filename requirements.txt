@@ -1,27 +1,9 @@
-﻿# Core web app
-streamlit==1.44.1
-scikit-learn==1.6.1
-faiss-cpu==1.11.0.post1
-gunicorn==22.0.0
-# Semantic and Keyword Matching
-sentence-transformers==5.0.0
-keybert==0.9.0
-# Core NLP and Resume Parsing
-spacy==3.4.1
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+streamlit==1.39.0
+pandas==2.2.2
 numpy==1.26.4
-pandas==2.2.3
-tqdm==4.67.1
-pdfplumber==0.11.7
-PyMuPDF==1.25.5
-pillow==10.4.0
-regex==2024.11.6
-requests==2.32.3
-joblib==1.4.2
-matplotlib==3.10.3
-seaborn==0.13.2
-nltk==3.9.1
-scipy==1.14.0
-typing_extensions==4.15.0
-packaging==24.2
-
+scikit-learn==1.5.1
+sentence-transformers==3.0.1
+keybert==0.8.5
+spacy==3.7.2
+blis==0.7.10
+gunicorn==22.0.0
