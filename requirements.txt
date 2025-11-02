@@ -6,9 +6,10 @@ pdfplumber==0.11.4
 keybert==0.9.0
 sentence-transformers==2.7.0
 scikit-learn==1.5.2
-torch==2.2.2
+torch==2.9.0
 spacy==3.4.1
 blis==0.7.11
 gunicorn==22.0.0
+
 
 
