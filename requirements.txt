@@ -10,3 +10,5 @@ torch==2.2.2
 spacy==3.4.1
 blis==0.7.11
 gunicorn==22.0.0
+
+
